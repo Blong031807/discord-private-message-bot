@@ -8,5 +8,5 @@ say something privately or for a game or whatever.
 It's extremely simple, just has code to recognize it is being messaged, and
 to respond in a specific channel with whatever was said.
 While this code should be mostly intuitive, I will write comments.
-Feel free to copy everything but the token it's not like I own or came up with
+Feel free to copy everything it's not like I own or came up with
 this idea or plan on selling this bot.
